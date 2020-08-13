@@ -9,6 +9,6 @@ This program intends to remove strings containing 'oggy' from a list of strings.
 
 This Program works as intended.
 
-##Completion
+## Completion
 
 Assignment Completed
